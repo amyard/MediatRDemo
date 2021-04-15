@@ -1,0 +1,9 @@
+D:\rider_projects\MediatoRDemo\DemoLibrary\bin\Debug\netcoreapp3.1\DemoLibrary.deps.json
+D:\rider_projects\MediatoRDemo\DemoLibrary\bin\Debug\netcoreapp3.1\DemoLibrary.dll
+D:\rider_projects\MediatoRDemo\DemoLibrary\bin\Debug\netcoreapp3.1\DemoLibrary.pdb
+D:\rider_projects\MediatoRDemo\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.csprojAssemblyReference.cache
+D:\rider_projects\MediatoRDemo\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.AssemblyInfoInputs.cache
+D:\rider_projects\MediatoRDemo\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.AssemblyInfo.cs
+D:\rider_projects\MediatoRDemo\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.csproj.CoreCompileInputs.cache
+D:\rider_projects\MediatoRDemo\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.dll
+D:\rider_projects\MediatoRDemo\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K529CqXc2Zx77IqnkHjStkU1i6mQMNxXnqw2zYjef4cqJJOz+m6ui0uJaWQgnXPNbcZubpib3gLl8zbhUBLC0g==",
+  "success": true,
+  "projectFilePath": "D:\\rider_projects\\MediatoRDemo\\DemoLibrary\\DemoLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Professional\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
